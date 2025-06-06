@@ -1,6 +1,6 @@
 # 📘 MongoDB Learning Hub
 
-**Master MongoDB from Zero to Hero**  
+**LEARNING THE NOSQL DATABASE** 
 🧠 Learn by doing | 💻 Real-World Practice | ⚡ Developer-Focused
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-green?style=flat-square&logo=mongodb)
