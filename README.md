@@ -1,4 +1,4 @@
-# 📘 MongoDB Learning Hub
+# 📘 MongoDB Learning Center
 
 **LEARNING THE NOSQL DATABASE** 
 🧠 Learn by doing | 💻 Real-World Practice | ⚡ Developer-Focused
