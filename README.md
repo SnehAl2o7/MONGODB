@@ -28,11 +28,11 @@ mongodb-learning/
 
 ## 📌 Goals of This Repository
 
-- ✅ Gain fluency in MongoDB shell & query language  
-- ✅ Learn modern NoSQL schema design principles  
-- ✅ Use MongoDB with Python (PyMongo) & Node.js (Mongoose)  
-- ✅ Build and back up your own mini-projects  
-- ✅ Prepare for interviews and real-world applications  
+- ✅ Gain fluency in MongoDB shell & query language.  
+- ✅ Learn modern NoSQL schema design principles .
+- ✅ Use MongoDB with Python (PyMongo) & Node.js (Mongoose).  
+- ✅ Build and back up your own mini-projects. 
+- ✅ Prepare for interviews and real-world applications.  
 
 ---
 
