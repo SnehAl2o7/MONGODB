@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "685c14e388149baf614f931c"
+  },
+  "name": "Sumang",
+  "gpa": 7.2,
+  "age": 24,
+  "fullTime": true
+},
+{
+  "_id": {
+    "$oid": "685ce4be3a9f09644d4d4dbb"
+  },
+  "name": "gaurav",
+  "age": 23,
+  "gpa": 4.5,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "685ce5123a9f09644d4d4dbd"
+  },
+  "name": "meena",
+  "age": 45,
+  "gpa": 4,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "685ce5123a9f09644d4d4dbe"
+  },
+  "name": "girdhari",
+  "age": 50,
+  "gpa": 4,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "685ce69f572f50687abaa8b9"
+  },
+  "name": "vansh bisht ",
+  "age": 32,
+  "gpa": 2.8,
+  "fullTime": false,
+  "registerDate": {
+    "$date": "2025-06-26T06:20:15.863Z"
+  },
+  "graduationDate": null,
+  "courses": [
+    "bioloagy",
+    "Chemsitry",
+    "Maths"
+  ],
+  "address": {
+    "street": "raod",
+    "city": "Nainital",
+    "zip": "263001"
+  }
+}]
