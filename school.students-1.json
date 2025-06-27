@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "685ea70231531b536a652ce5"
+  },
+  "name": "Snehal",
+  "class": 12,
+  "percent": 56
+},
+{
+  "_id": {
+    "$oid": "685ea70231531b536a652ce6"
+  },
+  "name": "Sumang",
+  "class": 11,
+  "percent": 89
+}]
